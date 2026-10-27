@@ -3,7 +3,7 @@
 
 # 💾 **Universal Windows Updater**
 
-## 📖 From Windows XP to the Latest Windows — A Documented Upgrade Path
+## 📖 From Windows XP to the Latest Windows — An Upgrade Path
 
 **Universal Windows Updater** is a **documented upgrade process** — not an application — that describes how to bring a Windows XP SP2 installation all the way up to current Windows builds, and by design to future ones. The documentation includes a **small helper script** that automates a few terminal commands, so you don't have to type them manually.
 
