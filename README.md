@@ -75,10 +75,7 @@ This is **primarily documentation**, not a tool:
 
 ## 📌 Project Overview
 
-[![Solution](https://img.shields.io/badge/Solution-v1-blue?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)
-[![Successful Tests](https://img.shields.io/badge/Successful_Tests-2-brightgreen?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)
-[![Publication](https://img.shields.io/badge/Publication-Coming_Soon-orange?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)
-[![Target](https://img.shields.io/badge/Windows-XP_x64_to_11-blue?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)
+[![Solution](https://img.shields.io/badge/Solution-v1-blue?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)[![Successful Tests](https://img.shields.io/badge/Successful_Tests-2-brightgreen?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)[![Publication](https://img.shields.io/badge/Publication-Coming_Soon-orange?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)[![Target](https://img.shields.io/badge/Windows-XP_to_11-blue?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)
 
 **Solution v1** demonstrates a direct Windows XP x64 → Windows 11 OS upgrade using official Microsoft Windows installer components, without a chain of intermediate Windows upgrades.
 
@@ -310,11 +307,7 @@ The full procedure, supporting documentation, and recorded upgrade demonstration
 
 Researching installer compatibility, testing Windows builds, investigating setup failures, and documenting a working procedure required extensive experimentation. The project is primarily a technical demonstration and installation guide, not a commercial application.
 
-[![Patreon](https://img.shields.io/badge/Patreon-Patron-F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/firstevertech/membership)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/FirstEverTech)
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=48VGDSCNJAPTJ)
-[![Buy Me a Coffee](https://img.shields.io/badge/Coffee-Donate-FFDD00?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/firstevertech)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-FF5E5B?style=for-the-badge&logo=kofi)](https://ko-fi.com/firstever)
+[![Patreon](https://img.shields.io/badge/Patreon-Patron-F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/firstevertech/membership)[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/FirstEverTech)[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=48VGDSCNJAPTJ)[![Buy Me a Coffee](https://img.shields.io/badge/Coffee-Donate-FFDD00?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/firstevertech)[![Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-FF5E5B?style=for-the-badge&logo=kofi)](https://ko-fi.com/firstever)
 
 If you appreciate independent technical research and unconventional Windows engineering, consider supporting the project.
 
