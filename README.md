@@ -20,15 +20,24 @@
 
 # 🪟 **Universal Windows Updater**
 
+[![Solution](https://img.shields.io/badge/Solution-v1-blue?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)[![Successful Tests](https://img.shields.io/badge/Successful_Tests-2-brightgreen?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)[![Publication](https://img.shields.io/badge/Publication-Coming_Soon-orange?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)[![Target](https://img.shields.io/badge/Windows-XP_to_11-blue?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)
+
+<a href="https://github.com/FirstEverTech">
+  <img width="600" alt="" title="Universal Windows Updater"
+       src="https://raw.githubusercontent.com/FirstEverTech/FirstEverTech/main/Images/Windows_Updater.png?raw=true" />
+</a>
+
 ## 📖 From Windows XP to the Latest Windows — An Upgrade Path
 
 **Universal Windows Updater** is a **documented upgrade process** — not an application — that describes how to bring a Windows XP SP2 installation all the way up to current Windows builds, and by design to future ones. The documentation includes a **small helper script** that automates a few terminal commands, so you don't have to type them manually.
 
-Before...
-<img width="1600" height="1200" alt="WinXP-Win11-Upgrade" src="https://github.com/user-attachments/assets/1582f01e-26dc-4490-9ed1-53ed6d1b530c" />
+Before...  
+  
+<img width="600" alt="WinXP-Win11-Upgrade" src="https://github.com/user-attachments/assets/1582f01e-26dc-4490-9ed1-53ed6d1b530c" />
 
-After...
-<img width="1600" height="1200" alt="WinXP-Win11-Upgrade-Done" src="https://github.com/user-attachments/assets/50c7c3c5-b7ca-4e84-9cc3-049ecae97c9e" />
+After...  
+  
+<img width="600" alt="WinXP-Win11-Upgrade-Done" src="https://github.com/user-attachments/assets/50c7c3c5-b7ca-4e84-9cc3-049ecae97c9e" />
 
 > ✅ **The project is complete and awaiting publication.** The full upgrade video is recorded and pending editing. A good occasion for the premiere would be the **25th anniversary of Windows XP's release**.
 
@@ -74,8 +83,6 @@ This is **primarily documentation**, not a tool:
 ---
 
 ## 📌 Project Overview
-
-[![Solution](https://img.shields.io/badge/Solution-v1-blue?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)[![Successful Tests](https://img.shields.io/badge/Successful_Tests-2-brightgreen?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)[![Publication](https://img.shields.io/badge/Publication-Coming_Soon-orange?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)[![Target](https://img.shields.io/badge/Windows-XP_to_11-blue?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)
 
 **Solution v1** demonstrates a direct Windows XP x64 → Windows 11 OS upgrade using official Microsoft Windows installer components, without a chain of intermediate Windows upgrades.
 
