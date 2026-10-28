@@ -1,5 +1,23 @@
-🇬🇧 English | 🇵🇱 [Polski](https://translate.google.com/translate?sl=auto&tl=pl&u=https://github.com/FirstEverTech/Universal-Windows-Updater) | 🇩🇪 [Deutsch](https://translate.google.com/translate?sl=auto&tl=de&u=https://github.com/FirstEverTech/Universal-Windows-Updater) | 🇫🇷 [Français](https://translate.google.com/translate?sl=auto&tl=fr&u=https://github.com/FirstEverTech/Universal-Windows-Updater) | 🇪🇸 [Español](https://translate.google.com/translate?sl=auto&tl=es&u=https://github.com/FirstEverTech/Universal-Windows-Updater) | 🇧🇷 [Português](https://translate.google.com/translate?sl=auto&tl=pt&u=https://github.com/FirstEverTech/Universal-Windows-Updater) | 🇳🇱 [Nederlands](https://translate.google.com/translate?sl=auto&tl=nl&u=https://github.com/FirstEverTech/Universal-Windows-Updater)
-🇨🇳 [中文](https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://github.com/FirstEverTech/Universal-Windows-Updater) | 🇯🇵 [日本語](https://translate.google.com/translate?sl=auto&tl=ja&u=https://github.com/FirstEverTech/Universal-Windows-Updater) | 🇰🇷 [한국어](https://translate.google.com/translate?sl=auto&tl=ko&u=https://github.com/FirstEverTech/Universal-Windows-Updater) | 🇮🇹 [Italiano](https://translate.google.com/translate?sl=auto&tl=it&u=https://github.com/FirstEverTech/Universal-Windows-Updater) | 🇹🇷 [Türkçe](https://translate.google.com/translate?sl=auto&tl=tr&u=https://github.com/FirstEverTech/Universal-Windows-Updater) | 🇸🇦 [العربية](https://translate.google.com/translate?sl=auto&tl=ar&u=https://github.com/FirstEverTech/Universal-Windows-Updater) | 🇮🇳 [हिन्दी](https://translate.google.com/translate?sl=auto&tl=hi&u=https://github.com/FirstEverTech/Universal-Windows-Updater) | 🇷🇺 [Русский](https://translate.google.com/translate?sl=auto&tl=ru&u=https://github.com/FirstEverTech/Universal-Windows-Updater)
+
+<p align="left">
+  <a href="https://github.com/FirstEverTech/Universal-Windows-Updater/blob/main/README.md">🇬🇧 English</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=pl&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇵🇱 Polski</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=de&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇩🇪 Deutsch</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=fr&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇫🇷 Français</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇪🇸 Español</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=pt&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇧🇷 Português</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=nl&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇳🇱 Nederlands</a>
+  <br>
+  <a href="https://translate.google.com/translate?sl=en&tl=zh-CN&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇨🇳 中文</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=ja&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇯🇵 日本語</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=ko&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇰🇷 한국어</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=it&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇮🇹 Italiano</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=tr&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇹🇷 Türkçe</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=ar&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇸🇦 العربية</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=hi&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇮🇳 हिन्दी</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=ru&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇷🇺 Русский</a>
+</p>
+
 
 # 🪟 **Universal Windows Updater**
 
