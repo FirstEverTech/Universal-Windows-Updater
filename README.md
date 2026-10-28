@@ -1,4 +1,3 @@
-
 <p align="left">
   <a href="https://github.com/FirstEverTech/Universal-Windows-Updater/blob/main/README.md">🇬🇧 English</a> |
   <a href="https://translate.google.com/translate?sl=en&tl=pl&u=https://github.com/FirstEverTech/Universal-Windows-Updater">🇵🇱 Polski</a> |
@@ -71,6 +70,27 @@ This is **primarily documentation**, not a tool:
 - 📄 **Full installation guide** — the complete step-by-step process, already written.
 - 🧰 **Helper script** — a small script that wraps the handful of terminal commands into a single run, so the guide can be followed without typing commands manually.
 - 🎥 **Full installation video** — recorded, awaiting editing. Raw footage will not be published.
+
+---
+
+## 📌 Project Overview
+
+[![Solution](https://img.shields.io/badge/Solution-v1-blue?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)
+[![Successful Tests](https://img.shields.io/badge/Successful_Tests-2-brightgreen?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)
+[![Publication](https://img.shields.io/badge/Publication-Coming_Soon-orange?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)
+[![Target](https://img.shields.io/badge/Windows-XP_x64_to_11-blue?style=flat-square)](https://github.com/FirstEverTech/Universal-Windows-Updater)
+
+**Solution v1** demonstrates a direct Windows XP x64 → Windows 11 OS upgrade using official Microsoft Windows installer components, without a chain of intermediate Windows upgrades.
+
+The procedure and helper script are complete. The author reports two successful tests, on a virtual machine and physical hardware. The recorded demonstration is awaiting editing before the public release of the full instructions.
+
+**Project resources:**
+
+→ [**Project Timeline**](#-project-timeline)  
+→ [**Test Results — VM and Real Hardware**](#-test-results-28072026)  
+→ [**Status & Roadmap**](#-status--roadmap)
+
+👉 [**Share your feedback!**](https://github.com/FirstEverTech/Universal-Windows-Updater/discussions)
 
 ---
 
@@ -281,6 +301,39 @@ The full procedure, supporting documentation, and recorded upgrade demonstration
 - [x] Helper script written
 - [ ] Edited full installation video (target: Windows XP 25th anniversary)
 - [ ] Public release
+
+---
+
+## 💖 Support This Project
+
+**Universal Windows Updater** is a free, independently developed project maintained by a single developer.
+
+Researching installer compatibility, testing Windows builds, investigating setup failures, and documenting a working procedure required extensive experimentation. The project is primarily a technical demonstration and installation guide, not a commercial application.
+
+[![Patreon](https://img.shields.io/badge/Patreon-Patron-F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/firstevertech/membership)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/FirstEverTech)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=48VGDSCNJAPTJ)
+[![Buy Me a Coffee](https://img.shields.io/badge/Coffee-Donate-FFDD00?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/firstevertech)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-FF5E5B?style=for-the-badge&logo=kofi)](https://ko-fi.com/firstever)
+
+If you appreciate independent technical research and unconventional Windows engineering, consider supporting the project.
+
+🎯 [**Follow on Patreon for free**](https://www.patreon.com/FirstEverTech) — for news about the public release and future projects.
+
+---
+
+## ⭐ Stars
+
+If this project interests you, please click the **Star** button at the top of this GitHub repository. Stars help others discover the research and upcoming documentation.
+
+---
+
+## 💼 Career Opportunity
+
+> **I specialize in Windows deployment, driver automation, hardware compatibility, Microsoft technologies, infrastructure analysis, and custom IT tooling. If your organization faces automation, deployment, device management, or driver management challenges, let's discuss how I can help.**
+
+🔗 **Business Contact:** [firstever.tech/contact](https://www.firstever.tech/contact)  
+🔗 **LinkedIn Profile:** [linkedin.com/in/marcin-grygiel](https://linkedin.com/in/marcin-grygiel)
 
 ---
 
